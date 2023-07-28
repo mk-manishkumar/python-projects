@@ -20,3 +20,9 @@ This repository serves as a platform for me to share a selection of Python proje
 - Screenshot:
 
 ![4](https://github.com/mk-manishkumar/python-projects/assets/102028645/36be2f2b-02e8-4209-9eef-611f46fde3ee)
+
+## Project-3 : Internet Speed Checker
+
+- Description: An internet speed testing tool created with Tkinter and speedtest.
+- Repo Link: [Click here](https://github.com/mk-manishkumar/python-projects/tree/Manish/internet-speed-checker)
+- Screenshot:
