@@ -29,3 +29,9 @@ This repository serves as a platform for me to share a selection of Python proje
 
   ![speedtest](https://github.com/mk-manishkumar/python-projects/assets/102028645/a15718b3-5579-4a92-a184-6a5985c63b05)
 
+## Project-4 : Calendar GUI
+
+- Description: A GUI application that displays the calendar for the year 2023.
+- Repo Link: [Click here](https://github.com/mk-manishkumar/python-projects/tree/Manish/Calendar)
+- Screenshot:
+
