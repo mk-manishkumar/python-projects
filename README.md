@@ -43,3 +43,6 @@ This repository serves as a platform for me to share a selection of Python proje
 - Description: A Simple Billing System for displaying a menu and calculating total bill based on user input.
 - Repo Link: [Click here](https://github.com/mk-manishkumar/python-projects/tree/Manish/billing-system)
 - Screenshot:
+
+  ![billing](https://github.com/mk-manishkumar/python-projects/assets/102028645/e24bca6f-b5bb-4c6f-a992-26311d0558c4)
+
