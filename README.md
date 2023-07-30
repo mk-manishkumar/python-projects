@@ -15,7 +15,7 @@ This repository serves as a platform for me to share a selection of Python proje
 
 ## Project-2 : Text Editor
 
-- Description: A text editor similar to **Notepad**. It has multiple features of cut, copy, paste, read, write, edit.
+- Description: A text editor similar to **Notepad**. It has multiple features of cut, copy, paste, read, write, and edit.
 - Repo Link: [Click here](https://github.com/mk-manishkumar/python-projects/tree/Manish/text-editor)
 - Screenshot:
 
@@ -23,7 +23,7 @@ This repository serves as a platform for me to share a selection of Python proje
 
 ## Project-3 : Internet Speed Checker
 
-- Description: An internet speed testing tool created with Tkinter and speedtest.
+- Description: An internet speed testing tool created with Tkinter and speed test.
 - Repo Link: [Click here](https://github.com/mk-manishkumar/python-projects/tree/Manish/internet-speed-checker)
 - Screenshot:
 
@@ -34,4 +34,7 @@ This repository serves as a platform for me to share a selection of Python proje
 - Description: A GUI application that displays the calendar for the year 2023.
 - Repo Link: [Click here](https://github.com/mk-manishkumar/python-projects/tree/Manish/Calendar)
 - Screenshot:
+
+  ![calendar-pic](https://github.com/mk-manishkumar/python-projects/assets/102028645/3d489697-e7a7-40c4-960a-67e0731085d7)
+
 
